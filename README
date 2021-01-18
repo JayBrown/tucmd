@@ -7,6 +7,7 @@ Installation on macOS:
 * clone this repo
 * symlink to tulib.py in the cloned repo from ~/Library/Python/3.8/lib/python/site-packages/tulib.py
 * symlink to tucmd.py in the cloned repo from one of your $PATH's bin directories, e.g. from /usr/local/bin/tulib.py or from ~/.local/bin/tulib.py
+* chmod +x the program & library for good measure
 
 
 usage: tucmd.py [-h] [-v] [-f FILE] upload
